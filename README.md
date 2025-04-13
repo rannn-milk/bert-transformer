@@ -1,4 +1,5 @@
 # bert-transformer
+<meta charset="UTF-8">
 项目框架
 ===
 project/
@@ -27,9 +28,7 @@ project/
 │
 ├── README.md
 │   - 本项目说明文档。
-│
-└──.gitignore
-    - 配置Git忽略的文件和目录。
+
     
 架构
 ==
